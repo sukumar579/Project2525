@@ -81,7 +81,7 @@
       <url>http://download.java.net/maven/2/</url>
       <id>hibernate-support</id>
       <layout>default</layout>
-      <name>Repository for library Library[hibernate-support]</name>
+      <name>batch63</name>
     </repository>
   </repositories>
   
